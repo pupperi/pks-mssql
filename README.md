@@ -1,4 +1,4 @@
-# pks-mssql
+# Run MS SQL Server on PKS as a POD
 
 Step 1: create a secret
         
