@@ -12,7 +12,7 @@ Step 3: Create MS SQL Server deployment
         
         > kubectl apply -f mssql-deployment.yml
         
-Step 4: Run the following commands
+Step 4: Run the following commands to install sqlcmd cli on ubuntu box
         
         curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
         
