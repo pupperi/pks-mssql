@@ -24,6 +24,6 @@ Step 4: Run the following commands
         
         sudo apt-get install mssql-tools unixodbc-dev
         
-Step 5: Connect to MS SQL Server database
+Step 5: Connect to MS SQL Server database and create databases and run queries
 
         sqlcmd -S xx.xx.xx.xx -U sa -P "xxxxxxxxxxxxxxx"
